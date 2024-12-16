@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CreateFile": {
+      "commandName": "Project",
+      "commandLineArgs": "output.txt 1000000 SampleStrings.txt"
+    }
+  }
+}

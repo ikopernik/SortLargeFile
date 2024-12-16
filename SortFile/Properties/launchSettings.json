@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SortFile": {
+      "commandName": "Project",
+      "commandLineArgs": "input_big.txt sorted.txt"
+    }
+  }
+}
